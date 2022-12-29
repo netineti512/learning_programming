@@ -1,1 +1,3 @@
-# それな
+```a.ts
+console.log("sss");
+```
