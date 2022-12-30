@@ -2,7 +2,7 @@
 
 <details><summary>ソースコード</summary><div>
   
-```
+```sample.js
 console.log("Hello World");
 ```
   
