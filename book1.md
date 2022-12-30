@@ -6,11 +6,6 @@
   console.log("Hello World");
   ```
   
-  ```
-  sample.js
-  
-
-  
 </div></details>
 
 # 2.
